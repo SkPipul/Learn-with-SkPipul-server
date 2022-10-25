@@ -1,0 +1,38 @@
+[
+    {
+        "id": "01",
+        "name": "Digital Marketing",
+        "img": "https://unsplash.com/photos/SB0WARG16HI",
+        "details": "Digital marketing is a form of marketing that leverages the internet and digital technologies, such as computers and smartphones, to connect with customers. As with other forms of marketing, its purpose is to increase brand awareness, drive sales, and promote goods and services. Digital marketers connect with potential customers through several different channels. The following digital marketing tactics, used by small companies and big businesses alike, remain among the most popular and impactful used today. So lets admit for gain this skill let's go.."
+    },
+    {
+        "id": "02",
+        "name": "Web Development",
+        "img": "https://unsplash.com/photos/FGXqbqbGt5o",
+        "details": "World is changing rapidly and so is the technology. Learn a new technology to build a better future for you and for the world. Choose to learn web development, app development and many more. “As a web developer, you will encounter numerous challenges. Some of them will be easy to fix, while others will be extremely hard,” Kowalski says. “It's critical to be persistent in improving your skills since the industry is ever-changing.” There's definitely a lot to learn in web development. So let's start your journey. So lets admit for gain this skill let's go.."
+    },
+    {
+        "id": "03",
+        "name": "Video Editors",
+        "img": "https://unsplash.com/photos/SpDOwp6PnBs",
+        "details": "In this time Video editing is a skill for a man. Everyone can earn money or get a job by learning this skills. We provide so many classes for this courses which is effective for a learner. We have so many specialist for this sector. So lets admit for gain this skill let's go..."
+    },
+    {
+        "id": "04",
+        "name": "Graphic Design",
+        "img": "https://unsplash.com/photos/v9vII5gV8Lw",
+        "details": "Graphic designers create visual concepts, using computer software or by hand, to communicate ideas that inspire, inform, and captivate consumers. They develop the overall layout and production design for applications such as advertisements, brochures, magazines, and reports. We also learn our every students our special skills from our teachers"
+    },
+    {
+        "id": "05",
+        "name": "Web Design",
+        "img": "https://unsplash.com/photos/v9FQR4tbIq8",
+        "details": "To be a good web designer, you need to master the craft of enhancing user experience (UX) and user interface (UI). You need to learn how to use color psychology, grid systems, and web fonts to design websites that are visually appealing and which are responsive to all kinds of devices. We provide so many advantages for those types of skills which is important for a designer. So let't admit and gain this skill now.."
+    },
+    {
+        "id": "06",
+        "name": "App Developer",
+        "img": "https://unsplash.com/photos/HfWA-Axq6Ek",
+        "details": "A few years ago, we introduced a set of libraries, tools, services, and guidance we call Modern Android Development, or MAD. From Android Studio, Kotlin, Jetpack libraries and powerful Google & Play Services, our goal is to make it faster and easier for you to build high quality apps across all Android devices."
+    }
+]
